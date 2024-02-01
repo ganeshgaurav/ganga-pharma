@@ -1,2 +1,1 @@
-# ganga-pharmacy
-# ganga-pharmacy
+# ganga-pharma
